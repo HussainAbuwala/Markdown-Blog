@@ -22,11 +22,10 @@ The Markdown Blog App is a user-friendly and feature-rich application designed f
 1. HTML5
 2. Bootstrap
 3. JavaScript
-4. React
-5. MongoDB
-6. Express.js
-7. Node.js
-8. EJS
-9. GitHub
+4. MongoDB
+5. Express.js
+6. Node.js
+7. EJS
+8. GitHub
 
 
